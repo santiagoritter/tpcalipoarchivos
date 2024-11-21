@@ -1,0 +1,9 @@
+Deposito de efectivo: $4000, Nuevo saldo: $4000
+Deposito de efectivo: $1000, Nuevo saldo: $1000
+Retiro de efectivo: $100, Nuevo saldo: $900
+Deposito de efectivo: $4e+06, Nuevo saldo: $4e+06
+Retiro de efectivo: $500000, Nuevo saldo: $3.5e+06
+Deposito de efectivo: $100, Nuevo saldo: $100
+Deposito de efectivo: $100, Nuevo saldo: $200
+Retiro de efectivo: $200, Nuevo saldo: $0
+Deposito de efectivo: $500000, Nuevo saldo: $500000
